@@ -23,7 +23,7 @@
     <jacoco.version>0.8.5</jacoco.version>
 
     <!-- JaCoCo support -->
-    <argLine />
+    <argLine/>
     <sonar.version>8.0</sonar.version>
     <jackson-databind.version>2.10.1</jackson-databind.version>
   </properties>
@@ -59,7 +59,7 @@
     <dependency>
       <groupId>com.squareup.okhttp3</groupId>
       <artifactId>okhttp</artifactId>
-      <version>4.2.2</version>
+      <version>4.9.0</version>
     </dependency>
 
 
